@@ -1,0 +1,2 @@
+[console_scripts]
+plex_sub_downloader = plex_sub_downloader:plex_sub_downloader.main

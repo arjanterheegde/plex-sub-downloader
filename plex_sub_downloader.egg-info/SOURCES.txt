@@ -1,0 +1,17 @@
+LICENSE.txt
+README.md
+pyproject.toml
+plex_sub_downloader/PlexSubDownloader.py
+plex_sub_downloader/PlexWebhookEvent.py
+plex_sub_downloader/__init__.py
+plex_sub_downloader/config.schema.json
+plex_sub_downloader/logger.py
+plex_sub_downloader/plex_auth.py
+plex_sub_downloader/plex_sub_downloader.py
+plex_sub_downloader/subliminalHelper.py
+plex_sub_downloader.egg-info/PKG-INFO
+plex_sub_downloader.egg-info/SOURCES.txt
+plex_sub_downloader.egg-info/dependency_links.txt
+plex_sub_downloader.egg-info/entry_points.txt
+plex_sub_downloader.egg-info/requires.txt
+plex_sub_downloader.egg-info/top_level.txt

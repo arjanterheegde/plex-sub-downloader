@@ -1,6 +1,10 @@
 Plex Sub Downloader
 ===================
 
+Repo is used for docker: https://hub.docker.com/r/arjanterheegde/plex_sub_downloader
+
+Edited Plex Sub Downloader by GitHub user Sasagr. https://github.com/itsToggle/plex_debrid/discussions/364#discussioncomment-4786388
+
 
 What is it?
 -----------
